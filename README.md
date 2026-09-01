@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Fernanda
 
-<!--
-**FernandaMachado-hub/FernandaMachado-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia e apaixonada por aprender coisas novas.
 
-Here are some ideas to get you started:
+💻 Atualmente estou estudando programação e desenvolvimento de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estou sempre buscando evoluir minhas habilidades e transformar o que aprendo em projetos práticos.
+
+📚 Atualmente aprendendo:
+- Python
+- C
+- Lógica de Programação
+- Estruturas de Dados
+- Front end
+- Inteligência Artificial
+- Inglês
+
+🚀 Objetivo:
+Construir uma carreira na área de tecnologia e continuar evoluindo como desenvolvedora.
+
+✨ Obrigada por visitar meu perfil!
